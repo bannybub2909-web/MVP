@@ -1,15 +1,7 @@
 # Python 3.11+
-# Telegram bot framework
 aiogram==3.24.0
-
-# Асинхронный HTTP клиент
 aiohttp==3.8.5
-
-# Асинхронная работа с файлами
 aiofiles==23.1.0
-
-# Асинхронная работа с SQLite
 aiosqlite==0.22.1
-
-# (опционально, если нужны типы)
+pydantic==2.12.5
 typing-extensions==4.7.1
